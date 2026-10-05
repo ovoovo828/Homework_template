@@ -1,7 +1,0 @@
-project/
-├── index.html
-├── WaterCup.js
-├── Cat.js
-├── Clock.js
-├── Particle.js
-└── sketch.js
